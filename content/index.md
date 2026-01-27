@@ -3,7 +3,7 @@ title: About me
 date: 27 Jan 2026
 ---
 Hi, I am Apoorva.
-I like to work on everything open-source.
+I like to use and work on open-source projects.
 
 I am an active contributor at the [Zulip Open Source Project](https://github.com/zulip/zulip).
 
