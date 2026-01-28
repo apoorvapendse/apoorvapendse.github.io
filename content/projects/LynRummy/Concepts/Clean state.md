@@ -1,0 +1,1 @@
+A clean state of the [[Board]] is when all the shelves on the board contain valid stacks.

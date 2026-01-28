@@ -1,0 +1,1 @@
+A stack is a collection of cards.

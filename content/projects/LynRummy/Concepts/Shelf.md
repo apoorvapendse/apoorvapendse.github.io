@@ -1,0 +1,1 @@
+A shelf is a collection of zero or more [[Stack]]s.
