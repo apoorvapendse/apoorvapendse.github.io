@@ -7,6 +7,7 @@ After contributing to around half a dozen open source projects since the last co
 
 Zulip's [How to be a successful contributor](https://zulip.readthedocs.io/en/latest/contributing/contributing.html#how-to-be-a-successful-contributor) is another great read on this topic.
 
+
 Here are some of my learnings in no particular order:
 ### Get familiar with the org and its ways.
 - The documentation is your best friend here. Some useful pointers would be:
