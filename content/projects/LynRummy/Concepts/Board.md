@@ -1,2 +1,2 @@
-Board is also known as the book case in our [code](https://github.com/showell/LynRummy) as the time of writing.
-This is the place where an player places their cards to build stacks or add to existing stacks.
+
+This is the place where a player places their cards to build [[Stack]]s or add to existing [[Stack]]s.
