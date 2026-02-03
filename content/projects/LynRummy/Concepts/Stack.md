@@ -13,4 +13,4 @@ Stacks can have various states which are broadly categorized into two states:
 			4. An invalid same set case because of duplicates:![[Pasted image 20260203172646.png]]
 		3. **Alternate run/ RED-BLACK run**
 			1. A stack with an alternate run is same as a pure run but with cards belonging to suits of alternating color.
-			2. Example:![[Pasted image 20260203173430.png]]
+			2. ![[Pasted image 20260203173430.png]]
