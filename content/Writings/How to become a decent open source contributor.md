@@ -2,7 +2,10 @@
 title: How to become a decent open source contributor?
 tags:
   - thoughts
+  - advice
+  - open-source
 ---
+(This is still WIP)
 After contributing to around half a dozen open source projects since the last couple years, I have a decent grasp on qualities that make a good and easy-to-work-with open source contributor.
 
 Zulip's [How to be a successful contributor](https://zulip.readthedocs.io/en/latest/contributing/contributing.html#how-to-be-a-successful-contributor) is another great read on this topic.
