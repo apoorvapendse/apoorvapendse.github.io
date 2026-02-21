@@ -1,3 +1,9 @@
+---
+tags:
+  - python
+  - debugging
+date: 21 Feb 2026
+---
 
 What do you think would this result in:
 ```

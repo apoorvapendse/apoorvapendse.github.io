@@ -1,3 +1,10 @@
+---
+tags:
+  - cloud
+  - aws
+date: 20 Feb 20206
+---
+
 An AWS profile is a named configuration bundle that defines  
 - **who you are**
 - **how you authenticate** (optional)
