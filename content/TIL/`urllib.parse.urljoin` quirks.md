@@ -15,7 +15,8 @@ Or perhaps
 > [!note]- Click to see answer  
 > `https://foo.com/authorize`!!!
 
-The actual way to do this to get the desired `https://foo.com/v1/authorize`, would be to be to do
+The actual way to do this to get the desired `https://foo.com/v1/authorize`, would be:
+
 ```
 >>> urljoin("https://foo.com/v1/", "authorize")
 ```
