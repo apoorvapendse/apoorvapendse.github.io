@@ -32,4 +32,4 @@ path, or excluding the entire base URI path if it does not contain
 any "/" characters).
 
 
-I seriously want my hour back!
+I seriously want my hour of debugging back!
