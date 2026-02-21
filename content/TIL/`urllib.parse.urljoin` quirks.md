@@ -21,7 +21,8 @@ The actual way to do this to get the desired `https://foo.com/v1/authorize`, wou
 >>> urljoin("https://foo.com/v1/", "authorize")
 ```
 
-The reason behind this can be found in [this section](https://datatracker.ietf.org/doc/html/rfc3986#section-5.2.3) of RFC 3986
+The reason behind this can be found in [this section](https://datatracker.ietf.org/doc/html/rfc3986#section-5.2.3) of RFC 3986.
+
 Particularly this bit of the merging algorithm:
 
 >return a string consisting of the reference's path component
