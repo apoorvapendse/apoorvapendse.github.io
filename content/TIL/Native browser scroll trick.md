@@ -1,6 +1,6 @@
-I've always subconsciously wanted a way to go to say the middle of a page I'm reading instantly.
+I've always subconsciously wanted a way to go to say the middle of a page I'm reading, instantly.
 
-Here's a nice image from https://developer.chrome.com/docs/css-ui/scrollbar-styling in case you're fuzzy about scrollbar anatomy.
+Here's a nice image from https://developer.chrome.com/docs/css-ui/scrollbar-styling in case you're fuzzy on scrollbar anatomy.
 ![](../Pasted%20image%2020260223090038.png)
 
 So yeah, say you wanted to scroll down 70% of a page as quickly as possible, how would you do that?
