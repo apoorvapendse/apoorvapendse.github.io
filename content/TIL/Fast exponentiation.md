@@ -4,7 +4,7 @@ The idea is pretty cool, and lets you do $a^b$ in $O(\log_{2}b)$ time.
 So say you want to do something like 4^9.
 So here 4 is your base, and 9 is your exponent.
 
-The idea is to scale your base to match the current bit value of the exponent, and then multiply that to your result in case the current bit of the exponent is set.
+The idea is to scale your base to match the current bit value of the exponent, and then multiply that to your result in case the "current" bit of the exponent is set.
 
 So in this case:
 I initially have `result = 1`, `base = 4`, `exponent = 9`
