@@ -3,3 +3,5 @@ LynRummy is a Rummy variant I am working on with my buddy [showell](https://gith
 You can find the WIP demo [here](https://showell.github.io/LynRummy)
 
 The source can be found at https://github.com/showell/LynRummy
+
+Update: It is now part of the [angry cat](https://github.com/showell/angry-cat) project.
