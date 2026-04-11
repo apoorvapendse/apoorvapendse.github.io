@@ -3,7 +3,7 @@ tags:
   - unix
   - shell
 ---
-
+(AI output)
 ## What is POSIX?
 
 **POSIX** stands for **P**ortable **O**perating **S**ystem **I**nterface.
