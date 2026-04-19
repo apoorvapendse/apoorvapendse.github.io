@@ -5,6 +5,7 @@ tags:
   - React
   - Redux
 ---
+### Redux 101
 State management happens centrally, and state updates are immutable which lets you conveniently track history of the state of your application.
 
 There's four/five main things:
@@ -26,13 +27,14 @@ The components that subscribe to certain parts of the store's state only re-rend
   >  
 >4. **Reference Comparison:** The hook compares the **result** of that selector from the last render to the **new result** using `===`.
 
+### RTK
 And then React Toolkit (RTK) introduces some nice abstractions, you break down your state  into slices, and can write code that appears to mutate the state, but actually doesn't, thanks to [Immer](https://immerjs.github.io/immer/).
 
 Also, each slice exposes a single reducer, which acts like a wrapper reducer that wraps all those functions you define in the `reducers` list.
 
 Another cool thing about RTK is that you don't have to manually do name spacing for your actions, it does it for you by doing something like `<slice_name>/<reducer_name>` as the action name, and you are also saved from writing switch statements you'd otherwise write.
 
-
+### Thoughts
 I like the idea that all state updates are immutable and you can "time travel", because you have the entire state history with you.
 
 This sounds very similar to event sourcing, where you play your events to get to the current state, as my friend showell says, you basically get the ability to replay stuff "for free".
