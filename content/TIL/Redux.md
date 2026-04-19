@@ -28,11 +28,12 @@ The components that subscribe to certain parts of the store's state only re-rend
 
 And then React Toolkit (RTK) introduces some nice abstractions, you break down your state  into slices, and can write code that appears to mutate the state, but actually doesn't, thanks to [Immer](https://immerjs.github.io/immer/).
 
+Also, each slice exposes a single reducer, which acts like a wrapper reducer that wraps all those functions you define in the `reducers` list.
+
+
 I like the idea that all state updates are immutable and you can "time travel", because you have the entire state history with you.
 
 This sounds very similar to event sourcing, where you play your events to get to the current state, as my friend showell says, you basically get the ability to replay stuff "for free".
 Actually it's in the other direction, but yeah.
-
-Also, each slice exposes a single reducer, which acts like a wrapper reducer that wraps all those functions you define in the `reducers` list.
 
 The time travel concept sounds super powerful to me in terms of being able to debug stuff!
