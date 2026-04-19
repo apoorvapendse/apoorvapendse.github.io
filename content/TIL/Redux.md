@@ -30,6 +30,8 @@ And then React Toolkit (RTK) introduces some nice abstractions, you break down y
 
 Also, each slice exposes a single reducer, which acts like a wrapper reducer that wraps all those functions you define in the `reducers` list.
 
+Another cool thing about RTK is that you don't have to manually do name spacing for your actions, it does it for you by doing something like `<slice_name>/<reducer_name>` as the action name, and you are also saved from writing switch statements you'd otherwise write.
+
 
 I like the idea that all state updates are immutable and you can "time travel", because you have the entire state history with you.
 
