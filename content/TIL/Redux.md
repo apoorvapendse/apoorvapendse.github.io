@@ -33,4 +33,6 @@ I like the idea that all state updates are immutable and you can "time travel", 
 This sounds very similar to event sourcing, where you play your events to get to the current state, as my friend showell says, you basically get the ability to replay stuff "for free".
 Actually it's in the other direction, but yeah.
 
+Also, each slice exposes a single reducer, which acts like a wrapper reducer that wraps all those functions you define in the `reducers` list.
+
 The time travel concept sounds super powerful to me in terms of being able to debug stuff!
